@@ -1,6 +1,5 @@
 /*
- * newtest.c
- *
+ *  Some portions taken from
  * Copyright (c) 2014 Jeremy Garff <jer @ jers.net>
  *
  * All rights reserved.
